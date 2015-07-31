@@ -1,0 +1,26 @@
+[
+  {
+    "name":"Core Java",
+    "shortname":"Core_Java",
+    "reknown":"as simple as 123",
+    "bio":"Here, We will learn the basic concepts of java and the important topics: Annotations, Collections, Exception Handling and  Multi-Threading."
+  },
+  {
+	"name":"Advanced Java",
+    "shortname":"Advanced_Java",
+    "reknown":"as simple as 123",
+    "bio":""
+  },
+  {
+	"name":"Web Services",
+    "shortname":"Web_Services",
+    "reknown":"as simple as 123",
+    "bio":""
+  },
+  {
+    "name":"Sathish Vuppala",
+    "shortname":"Sathish_Vuppala",
+    "reknown":"Software Professional",
+    "bio":"Sathish Vuppala is fascinated about the technology and how it can affect us. He is interested in Web development & Enterprise Applications and closely follows the developments in the field of Computer Science."
+  }
+]
